@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 855de6a187b5cb133a3d9e8960fe7532
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3756039920635620068
+    second: blood-removebg-preview_0
+  - first:
+      213: 5734789812388383889
+    second: blood-removebg-preview_1
+  - first:
+      213: -1381464656479036137
+    second: blood-removebg-preview_3
+  - first:
+      213: 5007412439507360995
+    second: blood-removebg-preview_5
+  - first:
+      213: -4015776288985528879
+    second: blood-removebg-preview_6
+  - first:
+      213: -1806393421727130230
+    second: blood-removebg-preview_7
+  - first:
+      213: 7360747880348426785
+    second: blood-removebg-preview_10
+  - first:
+      213: -6197757304728250702
+    second: blood-removebg-preview_11
+  - first:
+      213: 413787306123296823
+    second: blood-removebg-preview_13
+  - first:
+      213: 1318939571752834385
+    second: blood-removebg-preview_15
+  - first:
+      213: 8787787744399540012
+    second: blood-removebg-preview_17
+  - first:
+      213: -6298880518372693200
+    second: blood-removebg-preview_18
+  - first:
+      213: -5585957716964283354
+    second: blood-removebg-preview_19
+  - first:
+      213: -5827718726311540349
+    second: blood-removebg-preview_20
+  - first:
+      213: -2915063715531656324
+    second: blood-removebg-preview_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d350b79ddfdbc0800000000000000
+      internalID: -3756039920635620068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 432
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c40fc33f0169f40800000000000000
+      internalID: 5734789812388383889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 333
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5fc8d63d04dce0800000000000000
+      internalID: -1381464656479036137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 310
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec55b45517ed7540800000000000000
+      internalID: 5007412439507360995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 300
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5c49dddb81548c0800000000000000
+      internalID: -4015776288985528879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 311
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d1a5de0c66ee6e0800000000000000
+      internalID: -1806393421727130230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 180
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122a061c231a62660800000000000000
+      internalID: 7360747880348426785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 182
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6179781942df9a0800000000000000
+      internalID: -6197757304728250702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 176
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48109403, y: 0.6372203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7308b02dc511eb500800000000000000
+      internalID: 413787306123296823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 181
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155988e6d80dd4210800000000000000
+      internalID: 1318939571752834385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 52
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f3772d46e74f970800000000000000
+      internalID: 8787787744399540012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 75
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b64cb9a81e598a0800000000000000
+      internalID: -6298880518372693200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 45
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cedf55d01ba72b0800000000000000
+      internalID: -5585957716964283354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3890f4be1b8cf1fa0800000000000000
+      internalID: -5827718726311540349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 45
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73fa12defc9b87d0800000000000000
+      internalID: -2915063715531656324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
